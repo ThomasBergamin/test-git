@@ -13,8 +13,8 @@ Formation **git**
 
 ---
 
-"""html
+'''html
 <html></html>
-"""
+'''
 
 [lien](http://google.fr)
